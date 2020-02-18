@@ -3,6 +3,7 @@ package paquete1;
 public class clase1 {
     public void m1(){
         int a;
+        int b;
     }
 
     public void m2(){}
